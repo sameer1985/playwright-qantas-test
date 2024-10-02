@@ -33,6 +33,7 @@ Ensure all dependencies are installed by running:
 To run the Playwright tests, use the following command using Bash terminal:
 
 npx playwright test
+
 This command will launch Playwright, execute the tests, and display the results in the terminal.
 
 ### Step 4: Run Tests in Headless Mode
