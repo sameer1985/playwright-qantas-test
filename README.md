@@ -21,23 +21,17 @@ report/: Stores the Playwright test reports.
 ## Running the Tests
 To run the tests, follow these steps:
 
-### Step 1: Open Terminal/Command Line
-Navigate to the project directory:
+### Step 1: Clone the Project Repository
+Clone the repository and navigate to the project directory:
 
-bash
-Copy code
-cd path/to/qantas-hotel-booking
+
 ### Step 2: Install Dependencies
 Ensure all dependencies are installed by running:
 
-bash
-Copy code
-npm install
-### Step 3: Execute the Tests
-To run the Playwright tests, use the following command:
 
-bash
-Copy code
+### Step 3: Execute the Tests
+To run the Playwright tests, use the following command using Bash terminal:
+
 npx playwright test
 This command will launch Playwright, execute the tests, and display the results in the terminal.
 
